@@ -1,0 +1,20 @@
+{
+    "name": "dev/ahmadbudiu",
+    "description": "Lorem ipsum dolor sit amet",
+    "authors": [
+        {
+            "name": "budi",
+            "email": "budi.webdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-mysqli": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Config\\": "config/"
+        }
+    }
+}

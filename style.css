@@ -1,0 +1,23 @@
+.d-flex {
+    display: flex;
+}
+.flex-row {
+    flex-direction: row;
+}
+.flex-column {
+    flex-direction: column;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.my-10 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.pagination {
+    color: blue;
+}
+.active-pagination {
+    font-weight: bold;
+    color: black;
+}
